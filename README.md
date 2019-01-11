@@ -22,7 +22,7 @@ int main(){
 
 # Java Sample
 
-```c
+```java
 import java.lang.*
 public class Human{
 	public Human(){
