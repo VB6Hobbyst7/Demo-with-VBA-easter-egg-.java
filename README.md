@@ -16,7 +16,7 @@ Human is hypocritic, destructive and selfish if you think subjectively.
 ```c
 #include <stdio.h>
 int main(){
-  printf("Human itself is a problem, and one that we need to solve.");
+  printf("Human itself is a problem, and one that we need to solve.\n");
   return 0;
 }
 ```
@@ -24,11 +24,10 @@ int main(){
 # Java Sample
 
 ```java
-import java.lang.*
+import java.lang.*;
 public class Human{
-	public Human(){
-  	System.out.print("Human itself is a problem, and one that we need to solve.");
-  	return 0;
-	}
+	public static void main(String[]args){
+  	System.out.println("Human itself is a problem, and one that we need to solve.");
+}
 }
 ```
