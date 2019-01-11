@@ -1,14 +1,15 @@
 # Human
-Human is selfish, destructive and hypocritic if you think subjectively.
+Human is hypocritic, destructive and selfish if you think subjectively.
 
 
 | What you think              | How you act           |
 | ---- | ---- |
-| Animal, Importance of Moral | Food, Lower than Money|
-| Environment Destruction     | OK for Enjoyments     |
-| Modifying Embryo is not OK  | OK to jerk off        |
-| Eating Embryo is not OK     | Torture them for food |
-| Got money for LV and GUCCI  | Nth for starving ppl  |
+| Moral Values are important  | Sacrifice them in front of money|
+| Starving ppl in Africa needs help | Spend all money for just yourself |
+| Environment Destruction is bad | Destroy them for Enjoyments & Entertainments |
+| Animal should not be harmed | Eat more Food than that you need|
+| Modifying Embryo is not OK  | OK to jerk off (killing them) |
+
 
 # C Sample
 
