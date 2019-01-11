@@ -31,3 +31,7 @@ public class Human{
 }
 }
 ```
+
+# Python Sample
+```python
+print "Human itself is a problem, and one that we need to solve."
