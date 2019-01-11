@@ -4,11 +4,11 @@ Human is hypocritic, destructive and selfish if you think subjectively.
 
 | What you think              | How you act           |
 | ---- | ---- |
-| Moral Values are important  | Sacrifice them in front of money|
+| Moral Values are important  | Sacrifice them when everyone sacrifices|
 | Starving ppl in Africa needs help | Spend all money for just yourself |
 | Environment Destruction is bad | Destroy them for Enjoyments & Entertainments |
 | Animal should not be harmed | Eat more Food than that you need|
-| Modifying Embryo is not OK  | OK to jerk off (killing them) |
+| Modifying Embryo is not OK  | Jerk off (killing them) |
 
 
 # C Sample
