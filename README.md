@@ -34,7 +34,8 @@ Sub ConvertNo()
 
 Application.ScreenUpdating = False
 
-[AC2:AC200000].Select
+'Modify the range yourself lol
+[A2:A200000].Select
 With Selection
     .NumberFormat = "0"
     .Value = .Value
