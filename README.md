@@ -26,3 +26,19 @@ public class Human{
 # Python Sample
 ```python
 print "Testing."
+
+# VBA Convert to number is too slow, please use this instead
+```VBA
+Sub ConvertNo()
+
+Application.ScreenUpdating = False
+
+[AC2:AC200000].Select
+With Selection
+    .NumberFormat = "0"
+    .Value = .Value
+End With
+
+Application.ScreenUpdating = True
+
+End Sub
