@@ -28,7 +28,7 @@ public class Human{
 print "Testing."
 ```
 
-# VBA Convert to number is too slow, please use this instead
+# VBA "Convert to number" function is too inefficient, everyone please use this instead.
 ```VBA
 Sub ConvertNo()
 
