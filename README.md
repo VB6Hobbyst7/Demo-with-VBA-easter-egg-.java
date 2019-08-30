@@ -28,7 +28,8 @@ public class Human{
 print "Testing."
 ```
 
-# VBA "Convert to number" function is too inefficient, everyone please use this instead.
+# VBA 
+The "Convert to number" function is too inefficient, everyone please use this instead.
 ```VBA
 Sub ConvertNo()
 
